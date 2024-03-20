@@ -11,15 +11,15 @@ export const routes: Routes = [
         component:HomeComponent
     },
     {
-        path:'Services',
+        path:'about',
         component:ServicesComponent
     },
     {
-        path:'company',
+        path:'product',
         component:CompanyComponent
     },
     {
-        path:'career',
+        path:'contact',
         component:CareerComponent
     }, {
         path:'blog',
